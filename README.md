@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=somil04&label=Profile%20views&color=8a2be2&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/SomilGupta"><img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Somilemids04&label=Profile%20views&color=8a2be2&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/somil-gupta-5a9865291/"><img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:somil99262@gmail.com"><img src="https://img.shields.io/badge/Email-6a0dad?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
