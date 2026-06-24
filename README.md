@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/SomilGupta"><img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:somil99262@gmail.com"><img src="https://img.shields.io/badge/Email-6a0dad?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
+<img src= "https://www.behance.net/gallery/216454165/Analog-Memories" width="100%"/>
 ---
 
 ## 🚀 About Me
