@@ -109,7 +109,7 @@ Built with **LangChain**, this tool auto-generates PySpark ETL scripts from FHIR
 **🔹 [FHIR Parser using Python](#)**
 A Python automation framework that flattens deeply nested FHIR JSON schemas and dynamically maps fields to target CSV columns for scalable healthcare ETL.
 
-**🔹 [Sentiment Analysis on COVID-19 Social Media Data](#)**
+**🔹 [Sentiment Analysis on COVID-19 Social Media Data](https://github.com/Somilemids04/Sentiment_analysis.git)**
 A sentiment classification model using Twitter data, Linear SVC, and Logistic Regression to surface real-time public opinion trends.
 
 > Replace the `#` links above with your actual repo URLs once pinned/uploaded.
