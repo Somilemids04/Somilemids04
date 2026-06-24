@@ -52,7 +52,7 @@ I care about pipelines that don't just run — they run *reliably*, with clean v
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=somil04&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=somil04&theme=redical&hide_border=true&color=a56eff&line=8a2be2&point=ffffff" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Somilemids04&theme=nightowl&radius=10" />
 </p>
 
 ---
