@@ -80,6 +80,14 @@ I care about pipelines that don't just run — they run *reliably*, with clean v
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
+### 🗄️ Databases & Data Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,kafka&perline=3" />
+  &nbsp
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
 ### 🤖 AI / LLM Automation
 <p align="center">
   <b>Building Automation with Modern AI Tooling</b>
@@ -89,14 +97,6 @@ I care about pipelines that don't just run — they run *reliably*, with clean v
   📜 LLM-Generated ETL Scripts &nbsp;•&nbsp;
   🔄 Auto-Regeneration Pipelines &nbsp;•&nbsp;
   📊 Scikit-learn (SVC, Logistic Regression)
-</p>
-
-### 🗄️ Databases & Data Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,kafka&perline=3" />
-  &nbsp
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
