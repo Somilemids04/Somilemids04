@@ -42,7 +42,6 @@ I care about pipelines that don't just run — they run *reliably*, with clean v
 
 - Data Engineering & Lakehouse Architecture (Spark, Databricks, Delta Lake)
 - Cloud Infrastructure on Azure (ADF, ADLS Gen2, Databricks)
-- Infrastructure-as-Code & DevOps Automation (Terraform, CI/CD)
 - LLM-Powered Tooling for Data & ETL Automation
 - Data Quality, Validation & Pipeline Observability
 
