@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 I'm a **Software Engineer at Emids Technologies**, focused on **Distributed data engineering** for large-scale **Healthcare data systems** on **Azure Databricks**.
 
