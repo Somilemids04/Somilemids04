@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=A56EFF&center=true&vCenter=true&width=650&lines=Engineering+Lakehouses+on+Azure+%E2%9A%A1;PySpark+%7C+Databricks+%7C+Delta+Lake;Automating+ETL+with+LLMs+%F0%9F%A4%96;Building+Reliable%2C+Production-Grade+Pipelines." />
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Somilemids04&label=Profile%20views&color=8a2be2&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/somil-gupta-5a9865291/"><img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:somil99262@gmail.com"><img src="https://img.shields.io/badge/Email-6a0dad?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
