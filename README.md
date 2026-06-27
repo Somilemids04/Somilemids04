@@ -31,7 +31,7 @@ I care about pipelines that don't just run — they run *reliably*, with clean v
 
 - 🏗️ **Lakehouse Architectures** — Bronze/Silver/Gold pipelines on Delta Lake
 - ⚡ **Real-Time Ingestion** — Kafka streaming pipelines using Spark Structured Streaming
-- ⚙️ **Pipeline Orchestration** — config-driven ETL using Databricks Workflows
+- ⚙️ **Pipeline Orchestration** — config-driven ETL using Databricks Workflows 
 - ☁️ **Infrastructure-as-Code** — provisioning Azure resources with Terraform
 - 🤖 **LLM-Powered Automation** — LangChain tools that auto-generate ETL scripts 
 - 🔍 **Data Quality & Observability** — schema validation, job monitoring, alerting
