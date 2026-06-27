@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=5,19,24,39&text=Somil%20Gupta&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20|%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=A56EFF&center=true&vCenter=true&width=650&lines=Engineering+Lakehouses+on+Azure+%E2%9A%A1;PySpark+%7C+Databricks+%7C+Delta+Lake;Automating+ETL+with+LLMs+%F0%9F%A4%96;Building+Reliable%2C+Production-Grade+Pipelines." /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=A56EFF&center=true&vCenter=true&width=650&lines=Engineering+Lakehouses+on+Azure+%E2%9A%A1;PySpark+%7C+Databricks+%7C+Delta+Lake;Automating+ETL+with+LLMs+%F0%9F%A4%96;Building+Reliable%2C+Production-Grade+Pipelines." />  
 </p>
 
 <p align="center"> 
