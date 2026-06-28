@@ -38,7 +38,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Areas of Interest
 
 - Data Engineering & Lakehouse Architecture (Spark, Databricks, Delta Lake)
 - Cloud Infrastructure on Azure (ADF, ADLS Gen2, Databricks)
