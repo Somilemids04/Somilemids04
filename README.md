@@ -34,7 +34,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 - ⚙️ **Pipeline Orchestration** — config-driven ETL using Databricks Workflows 
 - ☁️ **Infrastructure-as-Code** — provisioning Azure resources with Terraform
 - 🤖 **LLM-Powered Automation** — LangChain tools that auto-generate ETL scripts 
-- 🔍 **Data Quality & Observability** — schema validation, job monitoring, alerts
+- 🔍 **Data Quality & Observability** — schema validation and job monitoring
 
 ---
 
