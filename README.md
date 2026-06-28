@@ -80,7 +80,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 ### ☁️ Cloud & Infrastructure (Azure)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux&perline=5" />
-  &nbsp;
+  &nbsp; 
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
