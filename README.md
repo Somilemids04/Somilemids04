@@ -28,7 +28,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 ---
 
 ### 🧠 What I Focus On
-
+ 
 - 🏗️ **Lakehouse Architectures** — Bronze/Silver/Gold pipelines on Delta Lake
 - ⚡ **Real-Time Ingestion** — Kafka streaming pipelines using Spark Structured Streaming
 - ⚙️ **Pipeline Orchestration** — config-driven ETL using Databricks Workflows 
