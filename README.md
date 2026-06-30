@@ -92,7 +92,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### 🤖 AI / LLM Automation
+### 🤖 AI / LLM Automation 
 <p align="center">
   <b>Building Automation with Modern AI Tooling</b>
 </p>
