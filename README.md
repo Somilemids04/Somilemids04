@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 About Me 
- 
+  
 I'm a **Software Engineer at Emids Technologies**, focused on **Distributed data engineering** for large-scale **Healthcare data systems** on **Azure Databricks**.
 
 I work on **Lakehouse architectures**, **infrastructure-as-code**, and increasingly, applying **LLMs** to automate parts of the ETL lifecycle.
