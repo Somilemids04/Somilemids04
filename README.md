@@ -107,7 +107,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 
 ## 💡 Highlighted Projects
 
-**🔹 [LLM-Powered AutoMapper](#)**
+**🔹 [LLM-Powered AutoMapper](#)** 
 Built with **LangChain**, this tool auto-generates PySpark ETL scripts from FHIR-to-CSV mapping metadata — cutting manual coding effort by **60%+** and keeping healthcare datasets consistent. 
 
 **🔹 [FHIR Parser using Python](#)**
