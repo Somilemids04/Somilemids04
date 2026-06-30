@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/somil-gupta-5a9865291/"><img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:somil99262@gmail.com"><img src="https://img.shields.io/badge/Email-6a0dad?style=flat&logo=gmail&logoColor=white" alt="Email" /></a> 
 </p>
-
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNtZDZlcWVlanJreTFtZHdsNXFrM2Z5NHg3OWh3OXlmYmozZGNiMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="65%" alt="coding gif"/> 
 </p>
