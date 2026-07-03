@@ -65,7 +65,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 
 ### 🧑‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,c,cpp&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,cpp&perline=5" /> 
 </p>
 
 ### 🗃️ Big Data & Lakehouse
