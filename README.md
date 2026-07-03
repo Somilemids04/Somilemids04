@@ -47,7 +47,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 
 ---
 
-## 📊 GitHub Contribution Stats
+## 📊 GitHub Contribution Stats 
  
 <p align="center">
 <img src="https://github-readme-stats-omega-ebon-27.vercel.app/api/top-langs/?username=Somilemids04&layout=compact&theme=nightowl&hide_border=true&langs_count=10">
