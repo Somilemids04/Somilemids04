@@ -74,7 +74,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" /> 
 </p>
 
 ### ☁️ Cloud & Infrastructure (Azure)
