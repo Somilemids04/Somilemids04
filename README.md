@@ -100,7 +100,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
   🧠 LangChain &nbsp;•&nbsp;
   📜 LLM-Generated ETL Scripts &nbsp;•&nbsp;
   🔄 Auto-Regeneration Pipelines &nbsp;•&nbsp;
-  📊 Scikit-learn (SVC, Logistic Regression)
+  📊 Scikit-learn (SVC, Logistic Regression) 
 </p>
 
 ---
