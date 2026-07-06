@@ -115,7 +115,7 @@ A Python automation framework that flattens deeply nested FHIR JSON schemas and 
 **🔹 [Sentiment Analysis on COVID-19 Social Media Data](https://github.com/Somilemids04/Sentiment_analysis.git)**
 A sentiment classification model using Twitter data, Linear SVC, and Logistic Regression to surface real-time public opinion trends.
 
-> Replace the `#` links above with your actual repo URLs once pinned/uploaded.   
+> Replace the `#` links above with your actual repo URLs once pinned/uploaded. 
 
 ---
 
