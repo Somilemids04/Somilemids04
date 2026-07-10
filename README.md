@@ -55,7 +55,10 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 <img src="https://streak-stats.demolab.com/?user=Somilemids04&theme=radical&hide_border=true&timezone=Asia/Kolkata" alt="GitHubstreak"/>
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Somilemids04&theme=nightowl&radius=10" />
+  <img
+    height="280em"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Somilemids04&theme=nightowl&radius=10&cache_seconds=1800"
+  />
 </p>
 ---
 
