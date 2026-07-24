@@ -60,7 +60,6 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
     src="https://github-readme-activity-graph.vercel.app/graph?username=Somilemids04&theme=nightowl&radius=10&cache_seconds=1800"
   />
 </p>
----
 
 ## 🛠️ Tech Stack
 
