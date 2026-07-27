@@ -48,7 +48,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Somilemids04&theme=radical&hide_border=true&timezone=Asia/Kolkata" alt="GitHubstreak"/>
-</p>
+</p> 
 <p align="center">
   <img
     height="280em"
