@@ -89,7 +89,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 
 ### 🤖 AI / LLM Automation 
 <p align="center">
-  <b>Building Automation with Modern AI Tooling</b>
+  <b>Building Automation with Modern AI Tooling</b> 
 </p>
 <p align="center">
   🧠 LangChain &nbsp;•&nbsp;
