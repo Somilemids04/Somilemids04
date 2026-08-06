@@ -72,7 +72,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
   <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Infrastructure (Azure)
+### ☁️ Cloud & Infrastructure (Azure) 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux&perline=5" />
   &nbsp; 
