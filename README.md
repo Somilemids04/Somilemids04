@@ -17,7 +17,7 @@
 I'm a **Software Engineer at Emids Technologies**, focused on **Distributed data engineering** for large-scale **Healthcare data systems** on **Azure Databricks**.
 
 I work on **Lakehouse architectures**and, increasingly, applying **LLMs** to automate parts of the ETL lifecycle.
-I care about pipelines that don't just run - they run *reliably*, with clean validation, monitoring, and recovery built in from day one.
+I care about pipelines that don't just run - they run *reliably*, with clean validation, monitoring, and recovery built in from day 1.
 
 ---
 
@@ -34,7 +34,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 
 ## 🎯 Areas of Interest
 
-- Data Engineering & Lakehouse Architecture (Spark, Databricks, Delta Lake).
+- Data Engineering & Lakehouse Architecture (Spark, Databricks, Delta Lake). 
 - Cloud Infrastructure on Azure (ADF, ADLS Gen2, Databricks).
 - LLM-Powered Tooling for Data & ETL Automation.
 - Data Quality, Validation & Pipeline Observability.
