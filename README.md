@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=5,19,24,39&text=Somil%20Gupta&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20|%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>   
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Somilemids04/Somilemids04/main/assets/terminal.svg" width="600"/>
 </p>
