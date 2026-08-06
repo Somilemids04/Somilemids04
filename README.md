@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Somilemids04/Somilemids04/main/assets/terminal.svg" width="600"/>
+  <img src="https://raw.githubusercontent.com/Somilemids04/Somilemids04/main/assets/terminal.svg" width="900"/>
 </p>
 
 <p align="center">
