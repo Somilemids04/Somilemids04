@@ -56,6 +56,16 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
   />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Somilemids04/Somilemids04/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Somilemids04/Somilemids04/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Somilemids04/Somilemids04/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Languages
