@@ -53,7 +53,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 </p> 
 <p align="center">
   <img
-    height="280em" 
+    height="280em"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Somilemids04&theme=nightowl&radius=10&cache_seconds=1800"
   />
 </p>
