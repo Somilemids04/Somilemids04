@@ -95,7 +95,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,kafka&perline=3" />
   &nbsp
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
