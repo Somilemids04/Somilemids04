@@ -49,7 +49,7 @@ I care about pipelines that don't just run - they run *reliably*, with clean val
 <img src="https://github-readme-stats-omega-ebon-27.vercel.app/api/top-langs/?username=Somilemids04&layout=compact&theme=nightowl&hide_border=true&langs_count=10">
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Somilemids04&theme=radical&hide_border=true&timezone=Asia/Kolkata" alt="GitHubstreak"/>
+<img src="https://streak-stats.demolab.com/?user=Somilemids04&theme=radical&hide_border=true&timezone=Asia/Kolkata" alt="GitHubstreak"/> 
 </p> 
 <p align="center">
   <img
