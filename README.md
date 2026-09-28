@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Somilemids04/Somilemids04/main/assets/terminal.svg" width="900"/>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=A56EFF&center=true&vCenter=true&width=650&lines=..." /> 
