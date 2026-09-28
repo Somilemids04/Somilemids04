@@ -18,7 +18,7 @@
 
 I'm a **Software Engineer at Emids Technologies**, focused on **Distributed data engineering** for large-scale **Healthcare data systems** on **Azure Databricks**.
 
-I work on **Lakehouse architectures**and, increasingly, applying **LLMs** to automate parts of the ETL lifecycle.
+I work on **Lakehouse architectures ** and, increasingly, apply **LLMs** to automate parts of the ETL lifecycle.
 I care about pipelines that don't just run - they run *reliably*, with clean validation, monitoring, and recovery built in from day 1.
 
 ---
